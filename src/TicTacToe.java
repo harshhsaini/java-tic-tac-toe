@@ -20,7 +20,7 @@ public class TicTacToe {
     int turns = 0;
 
     TicTacToe() {
-        frame.setVisible(true);˜
+        frame.setVisible(true);
         frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
         frame.setResizable(false);
